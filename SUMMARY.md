@@ -8,4 +8,6 @@
 
 ## Tasks/Projects
 
-* [Page 1](tasks-projects/page-1.md)
+* [Network Sniffing and Wireshark](tasks-projects/network-sniffing-and-wireshark.md)
+* [Page 2](tasks-projects/page-2.md)
+* [Page 3](tasks-projects/page-3.md)
